@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Snippet
+- Font Author: http://scripts.sil.org/OFL
+- Font Source: http://fonts.gstatic.com/s/snippet/v21/bWt47f7XfQH9Gupu2v_Afcp9QWc.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
